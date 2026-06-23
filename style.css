@@ -40,3 +40,8 @@ td,th{
 	border:1px solid black;
 	padding:10px;
 	}
+licznik {
+        font-size: 40px;
+        color: navy;
+        font-weight: bold;
+        }
